@@ -3,4 +3,4 @@ I've been working with AWS on my own for about a year, and already have an accou
 
 I spent the most time with lucid.app designing the architecture diagram, which can be seen in the readme of the GitHub repo. I typically use draw.io, but lucid.app is smoother in my opinion. I have a basic application running in my account currently, and created a new budget for $50/mo with an alarm/email notification that gets sent at 50% of the threshold. 
 
-![AWS architecture diagram](journal/week0/bootcamp-diagram.png)
+![AWS architecture diagram](/workspace/aws-bootcamp/journal/week0/bootcamp-diagram.png)
